@@ -3,3 +3,6 @@ def test():
 
 def test2():
     print("Hello From test2")
+
+def test3():
+    print("Hello From test3")
